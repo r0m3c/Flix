@@ -19,4 +19,4 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ![](https://media.giphy.com/media/6EANNDN5S0XONvIB9j/giphy.gif)
 
 ### Notes
-I thoroughly enjoyed making the first part of my Flix app. Right now all there is to the app is the abililty to view, through a list, all the newest films in theatres at this current moment.
+I thoroughly enjoyed making the first part of my Flix app. Right now all there is to the app is the abililty to view, through a list, all the newest films in theatres at this current moment. The user is able to see its image, title, and movie synopsis. However, the most challenging part of creating these features was understanding the Movie Database API. It's still relatively confusing to me but I think there are plenty of similarities of getting information from an API like in SwiftUI.
