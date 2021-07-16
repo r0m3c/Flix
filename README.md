@@ -9,7 +9,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 
 ### App Walkthrough GIF
-![](https://im.ezgif.com/tmp/ezgif-1-1c43e70994c2.gif)
+![](https://im.ezgif.com/tmp/ezgif-1-84f5c25d6a4b.gif)
 
 ### Notes
 The biggest challenge of part 2 was definitely understanding how to layout the Movie posters using a CollectionView. To be more specific, I can say that I was really stuck on deciding when to use UICollectionViewSource and UICollecitonViewDelegate. Once I got used to using it, the rest of the steps were similar to part 1. I had a bunch of fun.
